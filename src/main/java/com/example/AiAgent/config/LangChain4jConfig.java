@@ -1,5 +1,6 @@
 package com.example.AiAgent.config;
 
+import com.example.AiAgent.service.AgentTools;
 import com.example.AiAgent.service.ResearchAgent;
 import dev.langchain4j.model.openai.OpenAiChatModel;
 import org.springframework.context.annotation.Bean;
